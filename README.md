@@ -12,6 +12,7 @@ Se hizo un juego de ahorcado como primera propuesta para la programación junto 
 * Clases String y sus métodos ValueOf, CharAt y length()
 * Character y su método toLowerCase
 * Estructuras de control condicional
-*Cualquier pregunta no dudes en contactarme!*
+
+Cualquier pregunta no dudes en contactarme!
 
 link a mi LinkedIn: (www.linkedin.com/in/fabian-paucar)
